@@ -1,0 +1,32 @@
+body {
+  background-color: #404040;
+padding: 50px;
+}
+
+h1 {
+  color: floralwhite;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+color: floralwhite;
+  font-family: verdana;
+  font-size: 40px;
+}
+
+a:link{
+color: lightpink;
+text-decoration: none;
+font-family: verdana;
+font-size: 40px;
+}
+
+a:hover{
+text-decoration: underline;
+}
+
+a:visited{
+color: lightpink;
+}
+
